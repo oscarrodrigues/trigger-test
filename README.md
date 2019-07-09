@@ -1,3 +1,3 @@
 # trigger-test
 
-teste.
+teste trigger.
